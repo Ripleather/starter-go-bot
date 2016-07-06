@@ -3,7 +3,7 @@ description: A simple Go bot starter for Beep Boop
 avatar: resources/avatar.jpg
 #background: resources/background.png
 #config:
-#  - name: OPTION
+#  - name: Sam
 #    friendly_name: Some Unnecessary Option
 #    info: This is an unnecessary option
 #    default: the default value
